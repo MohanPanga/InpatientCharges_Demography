@@ -1,7 +1,8 @@
 # Inpatient Charges & Demographics
 Compile data of inpatient charges and structure the database to analyze against population, age group and income by zip code.<br/>
 
-<img src="image.png" alt="drawing" width=400/>
+<img src="image.png" alt="drawing" width="400"/> <br/>
+
 ## Resources
 ### kaggle.com
 
